@@ -68,10 +68,10 @@ const Footer = () => {
         <SocialMedia>
           <SocialMediaWrap>
             <SocialLogo to="/" onClick={toggleHome}>
-              Arsana
+              Dukhan Bank
             </SocialLogo>
             <WebsiteRights>
-              Arsana © {new Date().getFullYear()} All Rights Reserved.
+              Dukhan Bank © {new Date().getFullYear()} All Rights Reserved.
             </WebsiteRights>
             <SocialIcons>
               <SocialIconLink href="/" target="_blank" aria-label="Facebook">

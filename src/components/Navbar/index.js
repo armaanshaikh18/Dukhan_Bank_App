@@ -37,7 +37,7 @@ const Navbar = ({ toggle }) => {
         <Nav scrollNav={scrollNav}>
           <NavbarContainer>
             <NavLogo to="/" onClick={toggleHome}>
-              Arsana{" "}
+              Dukhan Bank{" "}
             </NavLogo>
             <MobileIcon onClick={toggle}>
               <FaBars />

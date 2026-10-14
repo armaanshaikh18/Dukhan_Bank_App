@@ -9,7 +9,6 @@ function App() {
       <Switch>
         <Route path="/" component={Home} exact />
         <Route path="/signIn" component={SignInPage} exact />
-        
       </Switch>
     </Router>
   );
